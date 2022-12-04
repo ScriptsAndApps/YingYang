@@ -25,10 +25,12 @@ global mouselocations := [
 
 
 [481, 424], ;cannon location 1
+
+
 [1000, 424], ;cannon location 2
 
 
-
+; change this get location with included script
 
 
 ]
