@@ -1,5 +1,5 @@
 # YingYang
-you know.. riding in my fiat..
+It makes me wanna dribble, dribble, you know. Riding in my Fiat You really have to see it. I'm 6 feet 2 in a compact
 
 
 
